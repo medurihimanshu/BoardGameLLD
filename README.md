@@ -10,5 +10,9 @@
 * Need to run `Main.java` code, rest players can start adding input in the terminal to play the game
 * For TicTacToe, player need to provide input in `x,y` where x & y varies from [0,2]
 
+### Testing
+<p align="left">
+  <img src="src/Testing.png" width="550" height="400">
+</p>
 
 
